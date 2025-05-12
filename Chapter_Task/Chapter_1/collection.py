@@ -28,3 +28,7 @@ print(deck[3])
 print(deck[4])   
 print(deck[5])   
 print(choice(deck))
+print(deck[0:4])
+print(deck[12::13])
+for card in deck:
+    print(card)
