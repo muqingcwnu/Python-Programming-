@@ -1,5 +1,5 @@
 import os
-from Projects.Photoshop_ImageProcessing.photoshop import Photoshop
+from photoshop import Photoshop
 
 def get_image_path():
     """Get image path from user"""
