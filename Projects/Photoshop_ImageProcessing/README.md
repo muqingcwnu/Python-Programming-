@@ -35,7 +35,7 @@ A Python-based image processing application that provides various operations to 
    ```
 3. Install required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install pillow numpy matplotlib
    ```
 
 ## Usage
@@ -102,4 +102,4 @@ The application includes robust error handling for:
 - Images should be in the same directory as the program or use full path
 - For crop operation, coordinates are in format: left, top, right, bottom
 - For channel swapping, use numbers 0 (R), 1 (G), 2 (B)
-- Press Enter to close image display window 
+- Press Enter to close image display window
