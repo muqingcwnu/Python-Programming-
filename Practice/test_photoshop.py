@@ -1,5 +1,5 @@
 import os
-from photoshop import Photoshop
+from Practice.photoshop import Photoshop
 
 def get_image_path():
     """Get image path from user"""
