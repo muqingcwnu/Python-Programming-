@@ -1,0 +1,13 @@
+empID,empName,empAge,empSalary,empDep,empLeaves,empGender,empJoinDate,empPS,City
+1001,Awais Ahmed,30,75000,IT,2,M,2/15/2019,4.2,Karachi
+1002,Saira Ahmed,27,68000,HR,1,F,6/12/2021,4.5,Lahore
+1003,Ali Raza,35,88000,Finance,3,M,10/20/2015,4,Islamabad
+1004,Sana Sheikh,29,71000,Marketing,0,F,4/18/2018,4.3,Faisalabad
+1005,Bilal Siddiqui,42,99000,Management,4,M,1/5/2010,4.7,Rawalpindi
+1006,Hina Qureshi,31,62000,HR,2,F,7/30/2016,3.9,Peshawar
+1007,Imran Abbas,38,83000,IT,5,M,11/11/2013,4.1,Hyderabad
+1008,Zara Fatima,26,54000,Marketing,1,F,3/22/2022,4.6,Multan
+1009,Asif Javed,45,107000,Management,6,M,12/10/2008,4.9,Sialkot
+1010,Mahnoor Rehman,33,67000,Finance,0,F,9/9/2017,3.8,Quetta
+1011,Masroor Rehman,33,67000,IT,0,M,10/9/2017,3.2,Karachi
+1012,Ali Nawaz,43,167000,IT,0,M,,,
